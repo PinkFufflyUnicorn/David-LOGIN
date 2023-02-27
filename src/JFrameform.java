@@ -172,6 +172,7 @@ public class JFrameform extends javax.swing.JFrame {
         else {
         JOptionPane.showMessageDialog(null, "Wrong password or username","Message",JOptionPane.ERROR_MESSAGE);
         }
+        //hejsan
     }//GEN-LAST:event_jloginActionPerformed
 
     /**
